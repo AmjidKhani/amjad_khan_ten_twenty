@@ -1,0 +1,9 @@
+const String homeScreen = '/HomeScreen';
+const String movieDetailScreen = '/MovieDetailScreen';
+const String movieSearchScreen = '/MovieSearchScreen';
+const String moviePlayScreen = '/MoviePlayScreen';
+const String getTicketScreen = '/getTicketScreen';
+const String dashboardScreen = '/DashboardScreen';
+const String watchMovieScreen = '/WatchMovieScreen';
+const String mediaLibraryScreen = '/MediaLibraryScreen';
+const String moreScreen = '/MoreScreen';
